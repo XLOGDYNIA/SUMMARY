@@ -14,8 +14,7 @@ div.stuff-background {
     border-radius: 30px;
 }
 
-li {
-    margin: 0 auto;
+ul {
    width: 50%;
-
+    margin: 0 auto;
 }
