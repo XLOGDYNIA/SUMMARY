@@ -1,3 +1,8 @@
+:root {
+    --margincenter: margin 0 auto;
+}
+
+
 body {
     background-image: url("./Preview_Image_00000.jpg");
     background-size: cover;
@@ -12,11 +17,11 @@ div.stuff-background {
     width: 60%;
     background: white;
     opacity: 0.6;
-    margin: 0 auto;
+    margin: var(--margincenter);
     border-radius: 30px;
 }
 
 ul {
    width: 50%;
-    margin: 0 auto;
+    margin: var(--margincenter);
 }
