@@ -5,6 +5,8 @@ body {
 
 div.stuff-background {
     text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 .stuff-background {
     width: 60%;
